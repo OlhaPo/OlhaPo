@@ -8,6 +8,7 @@
 + Reach me on [Linkedin](https://www.linkedin.com/in/olya-ponomarova-aa78a0156/)
 ##
 **Check my pet projects here:**
+   - [Yoga with NatOM](https://jogaznatom.netlify.app/)
    - [Steps Tracker](https://steps-tracker-pp3.netlify.app/)
    - [TO-DO List](https://react-to-do-list-pp2.netlify.app)
    - [Currency Converter](https://currency-converter-pp1.netlify.app)
