@@ -9,6 +9,7 @@
 ##
 **Check my pet projects here:**
    - [mariam crochet jewelry](https://mariam-crochet-jewelry.vercel.app/)
+   - [Wspieram, bo wiem](https://wspieram-bo-wiem.pl/)
    - [Yoga with NatOM](https://jogaznatom.netlify.app/)
    - [Steps Tracker](https://steps-tracker-pp3.netlify.app/)
    - [TO-DO List](https://react-to-do-list-pp2.netlify.app)
