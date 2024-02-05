@@ -8,7 +8,7 @@
 + Reach me on [Linkedin](https://www.linkedin.com/in/olya-ponomarova-aa78a0156/)
 ##
 **Check my pet projects here:**
-   - [mariam crochet jewelry](https://mariam-nextjs-typescript.vercel.app/)
+   - [mariam corner](https://www.mariamcorner.com.ua/)
    - [Wspieram, bo wiem](https://wspieram-bo-wiem.pl/)
    - [Yoga with NatOM](https://jogaznatom.netlify.app/)
    - [Steps Tracker](https://steps-tracker-pp3.netlify.app/)
