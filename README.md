@@ -1,7 +1,6 @@
 
 ### Hey there! My name is Olya, I'm a junior frontend developer 👩‍💻
 
-+ I'm currently studying full stack engineering at Codecademy.
 + I'm currently working on some pet projects to improve my coding skills.
 + I'm looking to collaborate on some cool websites and web applications where I can gain more experience.
 + Aside from web development I love hiking, sewing, knitting, dancing the 5Rhythms, playing the ukulele, postcrossing and cats 😸
