@@ -4,7 +4,7 @@
 + I'm currently working on some pet projects to improve my coding skills.
 + I'm looking to collaborate on some cool websites and web applications where I can gain more experience.
 + Aside from web development I love hiking, sewing, crocheting, knitting, dancing the 5Rhythms, playing the ukulele, postcrossing and cats 😸
-+ Reach me on [Linkedin](https://www.linkedin.com/in/olya-ponomarova-aa78a0156/)
++ Reach me on [Linkedin](https://www.linkedin.com/in/olha-ponomarova))
 ##
 **Check my pet projects here:**
    - [mariam corner](https://www.mariamcorner.com.ua/)
